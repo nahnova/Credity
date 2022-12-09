@@ -21,6 +21,11 @@ export const Navigator = ({ children }) => {
 			icon: 'check-square',
 		},
 		{
+			href: '/expo/stands',
+			title: 'Expo Stands',
+			icon: 'bar-chart',
+		},
+		{
 			href: '/stand/dashboard',
 			title: 'Stand Dashboard',
 			icon: 'pie-chart',

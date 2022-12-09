@@ -1,4 +1,5 @@
-import { Link } from 'react-router-dom'
+import { faker } from "@faker-js/faker";
+
 
 export const Table = ({
 	data,
